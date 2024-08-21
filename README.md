@@ -1,5 +1,5 @@
 # Smartphone-tracked behavioural markers of depression and anxiety
-## Digital phenotyping in the Netherlands Study of Depression and Anxiety (NESDA)
+## Digital phenotyping in the Netherlands Study of Depression and Anxiety 
 
 This Github repository contains all Python and R code and outputs required to execute a full machine learning pipeline on the NESDA digital phenotyping substudy that used the smartphone-based Behapp platform to capture location and smartphone app use in individuals with and without depression/anxiety symptoms (symptomatic vs asymptomatic). The project presented here identifies potentially informative digital phenotyping features and evaluates to what extent trained machine learning models can use these features for depression/anxiety symptom recognition. This README file explains the purpose of all files in this repository.
 

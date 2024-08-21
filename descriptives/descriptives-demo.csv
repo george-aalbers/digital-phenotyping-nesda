@@ -1,9 +1,9 @@
 ,n,mean,std
 "('asymptomatic', 'Female')",65.0,,
 "('asymptomatic', 'Male')",43.0,,
-"('current', 'Female')",77.0,,
-"('current', 'Male')",32.0,,
+"('symptomatic', 'Female')",77.0,,
+"('symptomatic', 'Male')",32.0,,
 asymptomatic,,13.86111111111111,2.8790520679502922
-current,,13.26605504587156,3.279120822310802
+symptomatic,,13.26605504587156,3.279120822310802
 asymptomatic,,55.083333333333336,12.822384778264505
-current,,53.38532110091743,12.241329703312411
+symptomatic,,53.38532110091743,12.24132970331241

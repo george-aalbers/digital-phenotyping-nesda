@@ -1,21 +1,21 @@
 ,feature,group1,group2,mean1,median1,sd1,mean2,median2,sd2,d
-0,Mean duration opened entertainment apps minutes,asymptomatic,current,4.87,2.08,7.14,3.24,1.27,5.29,0.26
-3,Number of apps used,asymptomatic,current,2.01,1.79,1.0,1.78,1.58,0.93,0.24
-5,Number of times opened communication apps,asymptomatic,current,32.6,25.64,24.24,39.13,29.21,42.9,0.19
-6,Number of times opened all apps at night,asymptomatic,current,4.36,1.94,6.78,6.65,3.0,16.06,0.19
-9,Number of times opened all apps,asymptomatic,current,156.5,152.96,101.75,185.39,133.47,205.52,0.18
-10,Number of times opened social media apps,asymptomatic,current,8.59,2.28,15.08,13.9,2.33,42.06,0.17
-12,Mean duration opened social media apps minutes,asymptomatic,current,2.48,1.73,2.2,3.1,2.03,5.22,0.16
-14,Phone addiction,asymptomatic,current,0.25,0.25,0.14,0.28,0.26,0.15,0.15
-16,Duration opened communication apps minutes,asymptomatic,current,39.01,25.8,35.45,44.35,32.35,39.95,0.14
-18,Duration opened all apps minutes at night,asymptomatic,current,6.87,1.5,14.99,8.91,2.78,15.93,0.13
-21,Total number of leisure staypoints,asymptomatic,current,0.39,0.28,0.34,0.3,0.21,0.27,0.3
-23,Total number of trajectories,asymptomatic,current,1.29,1.37,0.79,1.09,0.84,0.89,0.24
-24,Percentage of staypoints visited once,asymptomatic,current,63.43,65.84,13.97,59.81,61.54,16.87,0.23
-26,Maximum distance from home kilometers,asymptomatic,current,310.82,73.83,1110.5,140.19,54.64,296.15,0.21
-28,Total number of nightly staypoints,asymptomatic,current,0.07,0.06,0.06,0.06,0.05,0.04,0.21
-30,Standard deviation time travelled hours,asymptomatic,current,0.91,0.59,1.61,0.67,0.5,0.54,0.2
-33,Total number of unique leisure staypoints,asymptomatic,current,0.02,0.01,0.02,0.01,0.01,0.02,0.2
-35,Total time spent outside including travel hours,asymptomatic,current,4.97,4.45,3.45,4.35,3.74,3.34,0.18
-37,Total number of unique nightly staypoints,asymptomatic,current,0.02,0.02,0.01,0.02,0.02,0.01,0.18
-38,Total time spent stationary hours excluding home,asymptomatic,current,3.96,3.15,3.08,3.45,2.79,2.91,0.17
+0,Mean duration opened entertainment apps minutes,asymptomatic,symptomatic,4.87,2.08,7.14,3.24,1.27,5.29,0.26
+3,Number of apps used,asymptomatic,symptomatic,2.01,1.79,1.0,1.78,1.58,0.93,0.24
+5,Number of times opened communication apps,asymptomatic,symptomatic,32.6,25.64,24.24,39.13,29.21,42.9,0.19
+6,Number of times opened all apps at night,asymptomatic,symptomatic,4.36,1.94,6.78,6.65,3.0,16.06,0.19
+9,Number of times opened all apps,asymptomatic,symptomatic,156.5,152.96,101.75,185.39,133.47,205.52,0.18
+10,Number of times opened social media apps,asymptomatic,symptomatic,8.59,2.28,15.08,13.9,2.33,42.06,0.17
+12,Mean duration opened social media apps minutes,asymptomatic,symptomatic,2.48,1.73,2.2,3.1,2.03,5.22,0.16
+14,Phone addiction,asymptomatic,symptomatic,0.25,0.25,0.14,0.28,0.26,0.15,0.15
+16,Duration opened communication apps minutes,asymptomatic,symptomatic,39.01,25.8,35.45,44.35,32.35,39.95,0.14
+18,Duration opened all apps minutes at night,asymptomatic,symptomatic,6.87,1.5,14.99,8.91,2.78,15.93,0.13
+21,Total number of leisure staypoints,asymptomatic,symptomatic,0.39,0.28,0.34,0.3,0.21,0.27,0.3
+23,Total number of trajectories,asymptomatic,symptomatic,1.29,1.37,0.79,1.09,0.84,0.89,0.24
+24,Percentage of staypoints visited once,asymptomatic,symptomatic,63.43,65.84,13.97,59.81,61.54,16.87,0.23
+26,Maximum distance from home kilometers,asymptomatic,symptomatic,310.82,73.83,1110.5,140.19,54.64,296.15,0.21
+28,Total number of nightly staypoints,asymptomatic,symptomatic,0.07,0.06,0.06,0.06,0.05,0.04,0.21
+30,Standard deviation time travelled hours,asymptomatic,symptomatic,0.91,0.59,1.61,0.67,0.5,0.54,0.2
+33,Total number of unique leisure staypoints,asymptomatic,symptomatic,0.02,0.01,0.02,0.01,0.01,0.02,0.2
+35,Total time spent outside including travel hours,asymptomatic,symptomatic,4.97,4.45,3.45,4.35,3.74,3.34,0.18
+37,Total number of unique nightly staypoints,asymptomatic,symptomatic,0.02,0.02,0.01,0.02,0.02,0.01,0.18
+38,Total time spent stationary hours excluding home,asymptomatic,symptomatic,3.96,3.15,3.08,3.45,2.79,2.91,0.17

@@ -1,7 +1,7 @@
-group,asymptomatic,asymptomatic,asymptomatic,asymptomatic,asymptomatic,current,current,current,current,current
+group,asymptomatic,asymptomatic,asymptomatic,asymptomatic,asymptomatic,symptomatic,symptomatic,symptomatic,symptomatic,symptomatic
 statistic,median,mean,std,min,max,median,mean,std,min,max
 variable,,,,,,,,,,
-IDS total score,5.5,6.215686274509804,3.5921461385639413,0.0,13.0,20.0,21.62857142857143,8.402446007032648,8.0,53.0
+IDS total score,5.5,6.215686274509804,3.5921461385639417,0.0,13.0,20.0,21.62857142857143,8.402446007032648,8.0,53.0
 QIDS total score,2.0,2.656862745098039,1.6856711096431172,0.0,9.0,7.0,7.895238095238096,3.907398823740107,2.0,20.0
 BAI somatic score,2.0,1.9509803921568627,1.9159437918355315,0.0,8.0,6.0,6.798076923076923,4.509708637376189,0.0,21.0
 BAI subjective score,0.0,0.8921568627450981,1.0982151383048502,0.0,4.0,4.0,4.211538461538462,3.1335115601407106,0.0,16.0

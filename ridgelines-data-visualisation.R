@@ -1,3 +1,7 @@
+list.of.packages <- c("ggplot2", "lubridate", "tidyverse", "ggridges", "forcats")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+
 library(lubridate)
 library(tidyverse)
 library(ggplot2)
@@ -5,7 +9,7 @@ library(ggridges)
 library(forcats)
 theme_set(theme_minimal())
 
-setwd(dir = 'C:/Users/George.Aalbers/Desktop/behapp')
+setwd(dir = '/Users/georgeaalbers/Desktop/behapp/')
 
 df <- read.csv('ridgelines-df.csv')
 

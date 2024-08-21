@@ -25,15 +25,15 @@ from sklearn.dummy import DummyClassifier
 
 def make_config():
     
-    data_dir          = "C:/Users/George.Aalbers/Desktop/behapp/data/"
-    raw_dir           = "C:/Users/George.Aalbers/Desktop/behapp/data/raw/"
-    interim_dir       = "C:/Users/George.Aalbers/Desktop/behapp/data/interim/"
-    processed_dir     = "C:/Users/George.Aalbers/Desktop/behapp/data/processed/"
-    evaluation_dir    = "C:/Users/George.Aalbers/Desktop/behapp/data/evaluation/"
-    performance_dir   = "C:/Users/George.Aalbers/Desktop/behapp/performance/"
-    model_dir         = "C:/Users/George.Aalbers/Desktop/behapp/models/"
-    figure_dir        = "C:/Users/George.Aalbers/Desktop/behapp/figures/"
-    descriptives_dir  = "C:/Users/George.Aalbers/Desktop/behapp/descriptives/"
+    data_dir          = "/Users/georgeaalbers/Desktop/behapp/data"
+    raw_dir           = "/Users/georgeaalbers/Desktop/behapp/data/raw/"
+    interim_dir       = "/Users/georgeaalbers/Desktop/behapp/data/interim/"
+    processed_dir     = "/Users/georgeaalbers/Desktop/behapp/data/processed/"
+    evaluation_dir    = "/Users/georgeaalbers/Desktop/behapp/data/evaluation/"
+    performance_dir   = "/Users/georgeaalbers/Desktop/behapp/performance/"
+    model_dir         = "/Users/georgeaalbers/Desktop/behapp/models/"
+    figure_dir        = "/Users/georgeaalbers/Desktop/behapp/figures/"
+    descriptives_dir  = "/Users/georgeaalbers/Desktop/behapp/descriptives/"
     raw_data_paths    = ["N1_G257D.csv",
                          "N1_G259D.csv",
                          "N1_G100D.csv",
